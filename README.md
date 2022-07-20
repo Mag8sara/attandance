@@ -1,1 +1,5 @@
 # attandance
+# Overview 
+This project was another initiative from our team. The main idea was to create a website for attendance; which helps convert the attendance process from manual to electronic. The basic design of the website is based on the network session restriction. That is, the website will not open on any device that not connected to the hospital network. By using this website, the employees can register their attendance easily and view their attendance reports. Also the admin can see the attendance information and write a warning note for absentees and latecomers. In developing this website, I contributed by creating these pages: Login page, Leave page, Delete Warning page, Registration page, Reg-Process page and Connect-db page. Also I created two tables in the database, one is called “Users” and the other one is called “Enthar”.
+# Tools 
+used the NetBeans IDE 8.1 software that offers the PHP, CSS, HTML and JavaScript. With this software, I wrote the code of the website. In addition, I used Axure RP Pro 7.0 for designing the prototype, and also PHPMyadmin at the local host server and MySQL for database.
